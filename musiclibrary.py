@@ -1,4 +1,5 @@
-# Add 
+# Add Music Of Your choice and you like i had given small names to songs as 
+# they are easy to excess and increase productivity
 music = {
     "stealth" : "https://www.youtube.com/watch?v=U47Tr9BB_wE",
     "believer" : "https://www.youtube.com/watch?v=SBlotdJ_m6w",

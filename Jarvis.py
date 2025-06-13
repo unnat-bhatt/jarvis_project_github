@@ -29,7 +29,7 @@ newsapi = "Your News Api Here"
 # --- Your existing functions (aiProcess, processcommand) remain exactly the same ---
 def aiProcess(command):
     client = OpenAI(
-        api_key="Your open Ai Api key Paste It here"
+        api_key="Your open Ai Api Key Paste It Here"
     )
 
     completion = client.chat.completions.create(

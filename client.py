@@ -1,7 +1,7 @@
 #pip install openai
 from openai import OpenAI
 client = OpenAI(
-    api_key = "Your open ai api key Paste It here"
+    api_key = "Your Open Ai Api Key Paste It Here"
 )
 
 
