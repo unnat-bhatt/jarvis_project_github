@@ -74,9 +74,9 @@ music = {
 # ========== OpenAI API ==========
 from openai import OpenAI
 
-OPENAI_API_KEY = os.getenv("Your Open Ai Api Key") or ""
+OPENAI_API_KEY = os.getenv("Your Open Ai Api Key Here") or ""
 client = OpenAI(
-    api_key="Your Open Ai Api Key"
+    api_key="Your Open Ai Api Key Here"
 )
 
 
